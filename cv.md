@@ -3,7 +3,7 @@
 ## Contacts
 
 - **Location**: Shymkent, Kazakhstan
-- **Phone numer**: +7 (747) 9858504
+- **Phone number**: +7 (747) 985-85-04
 - **E-mail**: fromarys@gmail.com
 - **[GitHub Profile](https://github.com/fromarys)**
 - **[CodeWars Profile](https://www.codewars.com/users/fromarys)**
