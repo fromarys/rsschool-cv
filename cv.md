@@ -23,6 +23,7 @@ Hi! My name is Yevgeniy. At the moment I am working as an HTML coder in Service 
 
 ## Code Example
 This code is a solution for Kata "[Look and say numbers](https://www.codewars.com/kata/53ea07c9247bc3fcaa00084d)" from CodeWars
+
 ```function lookAndSay(data,len, arr = []){
   let str = '';
     if (len == 0) {
