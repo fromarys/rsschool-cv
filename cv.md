@@ -49,4 +49,4 @@ function lookAndSay(data,len, arr = []) {
 ## Languages
 - Russian - Native
 - Kazakh - Intermediate
-- English - Upper-Intermediate
+- English - Upper-Intermediate (practiced while studying in Italy)
