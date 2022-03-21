@@ -33,3 +33,17 @@ This code is a solution for Kata "[Look and say numbers](https://www.codewars.co
   }
 }
 ```
+## Education
+- [South Kazakhstan State Univerysity](https://auezov.edu.kz/rus), Chemistry of Organiс Substances, Bachelor degree
+- [South Kazakhstan State Univerysity](https://auezov.edu.kz/rus), Technology of Processing Industries, Master degree
+- [Erasmus+ in University of Padova, Italy](https://www.unipd.it/en/)
+
+## Courses
+ - [Udemy](https://www.udemy.com/)
+ - [learn.javascript.ru](https://learn.javascript.ru/)
+ - [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Languages
+- Russian - Native
+- Kazakh - Intermediate
+- English - Upper-Intermediate
