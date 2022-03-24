@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fromarys.github.io/rsschool-cv/
